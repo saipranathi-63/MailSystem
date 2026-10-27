@@ -1,0 +1,4 @@
+*.exe
+*.o
+mailboxes/
+.next_id
